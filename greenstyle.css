@@ -1,0 +1,51 @@
+body {
+	background: #f3f2f3;
+	color: #000000;
+	font-family: Trebuchet MS, Arial, Times New Roman;
+	font-size: 12px;
+}
+
+#wrapper {
+	background: #FFFFFF;
+	margin: 60px auto;
+	width: 900px;
+	height: 1024px;
+}
+
+#header {
+	background: #00cc00;
+	height: 200px;
+	width: 900px;	
+}
+
+#navigation {
+	background: #80ff80;
+	width: 900px;
+	height: 30px;
+}
+
+#one {
+	background: #b3ffb3;
+	float: left;
+	width: 300px;
+	height: 624px;
+}
+
+#two {
+	background: #ccffcc;
+	float: left;
+	width: 300px;
+	height: 624px;
+}
+ 
+#three {
+	background: #99ff99;	
+	width: 900px;
+	height: 624px;
+}
+
+#footer {
+	background: #66ff66;
+	height: 180px;
+	width: 900px;
+}
